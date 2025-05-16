@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [DevZEN](https://github.com/raiashpanda007/DevZEN)
 
-- 🌱 I’m currently learning **Kafka , GRPC , Montoring of application**
+- 🌱 I’m currently learning **Kafka ,K8s**
 
 - 👯 I’m looking to collaborate in **GSOC**
 
