@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwin Rai</h1>
-<h3 align="center">🚀 Full-Stack Developer | Chess Enthusiast 🎓 CSE '26 @ IIIT Bhagalpur 💡 Building DevZEN | Scaling platforms with Next.js, React, Node.js, Redis, AWS 🔧 Passionate about DSA, WebSockets, Video Streaming, and System Design</h3>
+<h3 align="center">🚀 Full-Stack Developer | Chess Enthusiast 🎓 CSE '26 @ IIIT Bhagalpur 💡 Building DevZEN | Scaling platforms with Next.js, React, Node.js, Redis, AWS 🔧 Passionate about DevOps, Docker, K8s, WebSockets, Video Streaming, and System Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raiashpanda007&label=Profile%20views&color=0e75b6&style=flat" alt="raiashpanda007" /> </p>
 
