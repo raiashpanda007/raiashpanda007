@@ -33,6 +33,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raiashpanda007&" alt="raiashpanda007" /></p>
 <p align="center">
-  <img src="[https://spotify-github-profile.vercel.app/api/view?uid=31z43qxjnnmg2o2rfgrt6fy4jrbu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31z43qxjnnmg2o2rfgrt6fy4jrbu&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31z43qxjnnmg2o2rfgrt6fy4jrbu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true))" alt="Spotify Now Playing" />
+  <img src="https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31z43qxjnnmg2o2rfgrt6fy4jrbu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
 </p>
 
