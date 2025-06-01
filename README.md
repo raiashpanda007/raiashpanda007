@@ -32,9 +32,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raiashpanda007&show_icons=true&locale=en" alt="raiashpanda007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raiashpanda007&" alt="raiashpanda007" /></p>
-### 🎧 My Spotify
+<h1> Listen While code </h1>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31z43qxjnnmg2o2rfgrt6fy4jrbu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31z43qxjnnmg2o2rfgrt6fy4jrbu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31z43qxjnnmg2o2rfgrt6fy4jrbu&redirect=true)
 
 
 
