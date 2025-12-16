@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on My own Exchange
 
-- 🌱 I’m currently learning **Kafka ,K8s, ML **
+- 🌱 I’m currently learning **Kafka ,K8s, ML**
 
 - 👯 I’m looking to collaborate in **Tech Startups**
 
