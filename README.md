@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/ashwinrai007" target="blank"><img src="https://img.shields.io/twitter/follow/ashwinrai007?logo=twitter&style=for-the-badge" alt="ashwinrai007" /></a> </p>
 
-- 🔭 I’m currently working on [DevZEN](https://github.com/raiashpanda007/DevZEN)
+- 🔭 I’m currently working on My own Exchange
 
-- 🌱 I’m currently learning **Kafka ,K8s**
+- 🌱 I’m currently learning **Kafka ,K8s, ML **
 
-- 👯 I’m looking to collaborate in **GSOC**
+- 👯 I’m looking to collaborate in **Tech Startups**
 
-- 🤝 I’m looking for help with **Building online coding enviroment**
+- 🤝 I’m looking for help with **Building trading bots**
 
 - 💬 Ask me about **building simple and inovative software**
 
