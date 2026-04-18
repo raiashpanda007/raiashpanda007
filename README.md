@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning **Kafka ,K8s, ML**
 - 👯 I’m looking to collaborate in **Tech Startups**
 - 🤝 I’m looking for help with **Building trading bots**
-- 💬 Ask me about **building simple and inovative software**
+- 💬 Ask me about **building simple and innovative software**
 - 📫 How to reach me **raiashwin005@gmail.com**
 
 ---
